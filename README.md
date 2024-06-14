@@ -1,4 +1,4 @@
-```markdown
+```
 # Sentiment Analysis and Visualization of Social Media Data
 
 This repository contains a project focused on analyzing and visualizing sentiment patterns in social media data. The dataset used for this project is the [Twitter Entity Sentiment Analysis dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) from Kaggle.
